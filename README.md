@@ -1,4 +1,4 @@
-# The Ceeya Manifesto
+# The Ceeya Manifesto V1
 
 ---
 
