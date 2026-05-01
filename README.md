@@ -1,4 +1,4 @@
- # The Ceeya Manifesto
+ # The Ceeya Manifesto V2
 
   There is no such thing as healthy food.
 
