@@ -1,83 +1,108 @@
-# The Ceeya Manifesto V1
+ # The Ceeya Manifesto
 
----
+  There is no such thing as healthy food.
 
-## The Lie Everyone Accepts
+  There is food that is healthy for you. Food that is healthy for her. Food that is hard on him. Food that is fuel at 7am and a problem at 11pm. The same bar, four different bodies, four
+  different answers. Anyone telling you otherwise is selling a number.
 
-There is no such thing as healthy food.
+  The food industry doesn't tell you this. Every label, every traffic-light sticker, every scanner app gives a single verdict and pretends the person holding the phone doesn't matter. The
+   simplification is the lie. And the lie hurts people.
 
-There is food that is healthy *for you*. Food that is healthy *for her*. Food that is dangerous *for him*. Food that is fuel at 7am and a problem at 11pm.
+  ---
 
-But the entire food industry — every label, every app, every influencer, every traffic-light sticker on a package — pretends otherwise. They slap a single number on a product and call it truth. Green means good. Red means bad. For everyone. Always.
+  ## What one answer for everyone breaks
 
-That is a lie. And it is a lie that hurts people.
+  A high-sugar energy bar reads "good" because it has fruit in it. The person watching their blood sugar gets the wrong signal in exactly the wrong direction.
 
----
+  A high-protein bar reads "poor" because it has saturated fat. The athlete who needs that protein walks away from the thing that works for them.
 
-## The Harm of Simplification
+  Freeze-dried strawberries (strawberries, coconut oil, balsamic) score 39 out of 100. Because of the natural sugar in strawberries. That isn't health guidance. That's anxiety dressed up
+  as concern.
 
-When you tell a diabetic that a high-sugar energy bar is "Good" because it has fruit in it, you are not helping. You are endangering.
+  The pattern is always the same. The label doesn't know who's reading it, so it lies to most people and only sometimes happens to be right.
 
-When you tell an athlete that a high-protein bar is "Poor" because it has saturated fat, you are not informing. You are misleading.
+  ---
 
-When you tell a pregnant woman that a product is "safe" because it passed a generic additive check — but you never looked at the specific ingredients through the lens of her trimester — you are not protecting. You are failing.
+  ## What we believe
 
-The simplification is the harm. The one-size-fits-all score is the problem, not the solution.
+  **Nutrition is personal as biology, not as a slogan.** The same food behaves differently in different bodies, against different goals, in different moments. A system that ignores that
+  is incomplete. A system that pretends otherwise is dishonest.
 
----
+  **Context belongs in the verdict.** A protein bar before the gym isn't the same product as a protein bar at midnight. A treat once a week isn't the same as a treat every day. Time,
+  intent, and frequency are part of the food.
 
-## What We Believe
+  **Fair comparison is the floor.** A candy bar is compared to candy bars. A soda is compared to sodas. We don't penalize a candy bar for being candy. We don't call broccoli "above
+  average" because broccoli isn't trying to be a candy bar. Every category sets its own ruler.
 
-**Nutrition is personal.** Not as a marketing slogan. As a biological fact. The same food interacts differently with different bodies, different conditions, different goals, different moments. Any system that ignores this isn't just incomplete — it's irresponsible.
+  **The verdict leads with what matters most to you.** If a product contains something you flagged, that finding goes first, and shapes the rest. No one should read a verdict whose lead
+  doesn't reflect the thing that mattered to them.
 
-**Context is not optional.** A protein bar before the gym is different from the same bar at midnight. A treat on a Friday is different from a daily habit. Evaluation without context is just noise with a number attached.
+  **Answer first, details on demand.** The verdict is visible in two seconds. The full breakdown is there for anyone who wants it, never forced on anyone who doesn't.
 
-**Fear is not a feature.** Labeling food as "bad" promotes anxiety, not awareness. Scaring people away from strawberries because of natural sugar is not health guidance — it's algorithmic negligence dressed up as concern.
+  **No fearmongering. No moralizing.** Choosing ice cream isn't a moral failure. Choosing salad isn't a moral victory. We give information. You make decisions. We won't shame, preach, or
+  dress alarm up as concern.
 
-**Understanding beats obedience.** "Don't eat this" teaches nothing. "Here's what this means for you, given your situation" teaches everything. We believe people are capable of making their own decisions when they have the right information.
+  **Determinism is how trust gets built.** Scan the same product twice, get the same answer. The scoring is math, not improvisation. Every result traces back to specific data and specific
+   rules. If we can't explain why a result changed, we haven't earned the right to ask anyone to trust it.
 
-**Safety is non-negotiable.** If something could hurt you — an allergen hiding behind a scientific name, a nutrient that conflicts with your condition, an ingredient unsafe for your life stage — you should know before you ever see a score. Not after. Not as a footnote. Before everything else.
+  **Honesty isn't a posture.** Null means we don't know. Zero means we measured zero. We show our work — where the data came from, how confident we are, what we couldn't check. When we're
+   wrong, we want to know.
 
-**Transparency builds trust.** We show our work. Where the data came from. How confident we are. What we checked and what we couldn't. If we're uncertain, we say so. If we're wrong, we want to know.
+  **We extend to you. We don't impose on you.** Ceeya doesn't pick fights about what's good and bad to eat. We don't have an opinion on seed oils, added sugar, or processed food in the
+  abstract. Your stated profile is the criterion. The product is described as it is. The reasons connect the two. What you're watching is what we surface.
 
-**Access is a right, not a premium.** Truly personalized nutrition guidance has historically required a specialist most people can't afford. We believe the knowledge shouldn't be gatekept by income. The core of what we do — understanding food through the lens of who you are — should be available to everyone.
+  ---
 
----
+  ## How a verdict gets shaped
 
-## The Standard We Hold Ourselves To
+  You tell Ceeya what you're working with: the foods you avoid, the conditions you live around, the goals you care about, the way your day moves. Then you scan something. The verdict you
+  read reflects three layers.
 
-We will never tell someone a food is safe when it isn't safe *for them*.
+  **Your profile.** Who you told us you are.
+  **The mode.** The lens you chose for the read — heart-aware, gut-aware, performance, your own.
+  **The context.** The moment you're in — pre-workout, late-night, a regular Tuesday.
 
-We will never tell someone a food is bad when it's exactly what they need.
+  Three layers, one verdict. The same bar can read differently for two different people on the same day, and read differently for the same person before a workout than at midnight. That
+  isn't a bug. It's the entire reason Ceeya exists.
 
-We will never pretend we're doctors. We will never replace medical advice. We will always remind you that your healthcare provider knows your full picture better than any app can.
+  The base evaluation — what's in the product, how it stacks up against its peers — is the same for everyone. The personal layer, which reads the product through your profile, is what
+  Premium activates. Free shows you the product. Premium reflects you back at it.
 
-We will never sell your health data. We will never let advertisers influence what we tell you about food. We will never accept money from food companies to adjust scores.
+  ---
 
-We will never moralize your food choices. Choosing ice cream is not a moral failure. Choosing salad is not a moral victory. We provide information. You make decisions.
+  ## What we are not
 
-We will be wrong sometimes. When we are, we will fix it, learn from it, and make the system better for everyone.
+  We're not a medical device. We don't diagnose. We don't track medications. We don't ask whether you're in active treatment, because evaluating food isn't the right place to reason about
+   treatment. If you're working with a clinician, they know your full picture better than any app could, and we're not here to replace them.
 
----
+  We're not always-on. We're not watching what you eat. The app does something when you open it and ask it to.
 
-## The Mission
+  Ceeya is a wellness app: food evaluation against the profile you tell us about. That's the whole frame. Anyone selling more than that is selling something we don't believe in.
 
-88 million Americans have prediabetes. 37 million have diabetes. 47% of adults have hypertension. Millions more live with kidney disease, celiac, IBS, food allergies, pregnancy, autoimmune conditions — each with specific nutritional needs that generic advice ignores.
+  ---
 
-These people stand in grocery aisles holding products, wondering: *Is this okay for me?*
+  ## What we won't do
 
-They can't afford a nutritionist. They can't interpret the label. The apps they've downloaded give them the same answer they give everyone else.
+  We don't sell your data. Ever.
 
-We exist to give them *their* answer.
+  We don't take money from food companies to adjust verdicts. The evaluation is what it is.
 
-Not a universal score. Not a generic rating. Not a traffic light that doesn't know who's driving.
+  We don't moralize what you eat. You're an adult.
 
-A personal evaluation that understands their conditions, respects their goals, considers their context, and tells them — clearly, kindly, honestly — what this food means for *them*.
+  We won't pretend to be your doctor.
 
-That's it. That's the whole thing.
+  We will be wrong sometimes. When we are, you can challenge any part of the result, and we'll review it. One correction for one person makes the system better for everyone.
 
----
+  ---
 
-*What's healthy for you isn't healthy for everyone.*
+  ## Who this is for
 
----
+  People standing in a grocery aisle with a product in their hand, wondering: is this okay for me?
+
+  People watching sodium because their cardiologist asked them to. People watching potassium because their nephrologist did. People avoiding gluten, peanuts, lactose, eggs. People
+  rebuilding their relationship with food. People with a goal, a window, a moment. People who want to know what's in front of them, and what it means for the body they actually have.
+
+  A nutritionist costs more than most people can afford. The apps that tried to fill the gap give everyone the same answer. We exist to give those people their answer — clear, kind,
+  honest, theirs.
+
+  That's the whole thing.
